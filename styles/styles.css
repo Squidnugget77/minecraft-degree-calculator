@@ -1,0 +1,25 @@
+body {
+	position: relative;
+	background-color: #e3e4eb;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 100px;
+}
+
+.footer {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	background: white;
+	padding-right: 20px;
+	box-sizing: border-box;
+	text-align: right;
+}
+
+.html {
+    overflow-y: scroll;
+}
